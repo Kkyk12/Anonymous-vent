@@ -2,27 +2,14 @@ import telebot
 from telebot import types
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 
-API_TOKEN = '7400844215:AAHuKUs4E2iyLTxIGkgP4903bMnlrkEsDQA' # Replace with your bot's API token
-GROUP_CHAT_ID = -1002248181172  # Replace with your group chat ID
+API_TOKEN = 'YOUR BOT API TOKEN' # Replace with your bot's API token
+GROUP_CHAT_ID = -100YOUR_GROUP_ID # Replace with your group chat ID
 
 bot = telebot.TeleBot(API_TOKEN)
 
-admins = [5973387970,303411718]  # Replace with actual admin IDs
+admins = [ADMIN_ID,]  # Replace with actual admin IDs
 topics = {
-    "Scripture and Quotes": 363,
-    "Gratitude": 361,
-    "Health Issues": 219,
-    "Mental Health": 258,
-    "️General Discussion": 13,
-    "Self Harm": 19,
-    "Drug and Alcohol Problems": 12,
-    "Family Problems": 10,
-    "Relationship Problems️": 9,
-    "No Fap": 8,
-    "Confession": 3,
-    "Emotional Support": 2,
-    "Other": 270,
-    "Prayer Requests": 7
+    "TOPICS": TOPICS_Id,
 }
 
 topics = dict(sorted(topics.items()))
