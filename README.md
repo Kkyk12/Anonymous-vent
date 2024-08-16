@@ -1,5 +1,5 @@
 # 🤖 Onto The Light Community Bot
-Welcome to [Onto The Light](t.me/OntoTheLight) Community Bot! This bot helps users anonymously share their struggles, secrets, testimonies, and more with a community of supportive individuals. Whether you're feeling down, need to vent, or want to inspire others with your story, our bot creates a safe space for you to share your experiences.
+Welcome to [Onto The Light](https://t.me/OntoTheLight) Community Bot! This bot helps users anonymously share their struggles, secrets, testimonies, and more with a community of supportive individuals. Whether you're feeling down, need to vent, or want to inspire others with your story, our bot creates a safe space for you to share your experiences.
 
 ## 🎉 Features
 🔐 **Anonymous Sharing:** Share your thoughts, struggles, or victories without revealing your identity.
